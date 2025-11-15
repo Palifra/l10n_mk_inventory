@@ -149,7 +149,7 @@ This module is licensed under **LGPL-3.0** - same as Odoo.
 ## 🔗 Related Modules / Поврзани модули
 
 - [l10n_mk_invoicing](https://github.com/Palifra/l10n_mk_invoicing) - Invoicing/Accounting translations
-- [l10n_mk](https://github.com/OCA/l10n-macedonia) - Chart of Accounts for North Macedonia
+- [l10n_mk](https://github.com/Palifra/l10n_mk) - Chart of Accounts for North Macedonia
 
 ---
 

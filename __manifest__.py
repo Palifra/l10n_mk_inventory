@@ -32,10 +32,10 @@ Installation:
 3. Refresh the page
 
 Author: ESKON-ENGINEERING DOO Strumica
-Contact: info@eskon.mk
+Contact: info@eskon.com.mk
     """,
     'author': 'ESKON-ENGINEERING DOO Strumica',
-    'website': 'https://eskon.mk',
+    'website': 'https://www.eskon.com.mk',
     'depends': ['stock'],
     'data': [],
     'installable': True,

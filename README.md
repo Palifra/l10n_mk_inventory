@@ -119,7 +119,7 @@ Contributions are welcome! If you find translation errors or have suggestions:
 
 1. Open an issue on GitHub
 2. Submit a pull request
-3. Contact: info@eskon.mk
+3. Contact: info@eskon.com.mk
 
 ## 📄 License / Лиценца
 
@@ -142,8 +142,8 @@ This module is licensed under **LGPL-3.0** - same as Odoo.
 ## 📧 Contact / Контакт
 
 - **Organization:** ЕСКОН-ИНЖЕНЕРИНГ ДООЕЛ Струмица
-- **Email:** info@eskon.mk
-- **Website:** https://eskon.mk
+- **Email:** info@eskon.com.mk
+- **Website:** https://www.eskon.com.mk
 - **GitHub:** https://github.com/Palifra
 
 ## 🔗 Related Modules / Поврзани модули

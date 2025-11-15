@@ -1,0 +1,89 @@
+msgid,msgstr,html_original,html_translation
+"<br/>
+                    <strong>Current Inventory: </strong>","<br/>
+                    <strong>Тековен инвентар: </strong>","<br/>, <strong>, </strong>","<br/>, <strong>, </strong>"
+"<br/>
+                Want to speed up operations?",<br/> Сакате да ги забрзате операциите?,<br/>,<br/>
+<br>A need is created in <b>%s</b> and a rule will be triggered to fulfill it.,Во <br> се создава потреба во <b>%s</b> и ќе се активира правило за нејзино исполнување.,"<br>, <b>, </b>","<br>, <b>, </b>"
+"<br>If the products are not available in <b>%s</b>, a rule will be triggered to bring the missing quantity in this location.","<br>Ако производите не се достапни во <b>%s</b>, ќе се активира правило за донесување на недостасувачката количина на оваа локација.","<br>, <b>, </b>","<br>, <b>, </b>"
+"<br>The products will be moved towards <b>%(destination)s</b>, <br/> as specified from <b>%(operation)s</b> destination.","<br>Производите ќе бидат преместени кон <b>%(destination)s</b>, <br/> како што е наведено од дестинацијата <b>%(operation)s</b>.","<br>, <b>, </b>, <br/>, <b>, </b>","<br>, <b>, </b>, <br/>, <b>, </b>"
+"<i class=""fa fa-clock-o"" role=""img"" aria-label=""Date"" title=""Date""/>","<i class=""fa fa-clock-o"" role=""img"" aria-label=""Date"" title=""Date""/>","<i class=""fa fa-clock-o"" role=""img"" aria-label=""Date"" title=""Date""/>","<i class=""fa fa-clock-o"" role=""img"" aria-label=""Date"" title=""Date""/>"
+"<i class=""fa fa-exclamation-triangle""/>
+                                All products could not be reserved. Click on the ""Check Availability"" button to try to reserve products.","<i class=""fa fa-exclamation-triangle""/> Не може да се резервираат сите производи. Кликнете на копчето ""Провери достапност"" за да се обидете да резервирате производи.","<i class=""fa fa-exclamation-triangle""/>","<i class=""fa fa-exclamation-triangle""/>"
+"<span class=""col-6"">Back Orders</span>","<span class=""col-6"">Нарачки во очекување</span>","<span class=""col-6"">, </span>","<span class=""col-6"">, </span>"
+"<span class=""col-6"">Late</span>","<span class=""col-6"">Доцно</span>","<span class=""col-6"">, </span>","<span class=""col-6"">, </span>"
+"<span class=""col-6"">Operations</span>","<span class=""col-6"">Операции</span>","<span class=""col-6"">, </span>","<span class=""col-6"">, </span>"
+"<span class=""col-6"">Waiting</span>","<span class=""col-6"">Чекање</span>","<span class=""col-6"">, </span>","<span class=""col-6"">, </span>"
+"<span class=""o_form_label"">Scannable Package Contents</span>","<span class=""o_form_label"">Сканирана содржина на пакетот</span>","<span class=""o_form_label"">, </span>","<span class=""o_form_label"">, </span>"
+"<span class=""o_stat_text"">Allocation</span>","<span class=""o_stat_text"">Алокација</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Forecasted</span>","<span class=""o_stat_text"">Прогнозирано</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">In:</span>","<span class=""o_stat_text"">во:</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Location</span>","<span class=""o_stat_text"">Локација</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Lot/Serial Numbers</span>","<span class=""o_stat_text"">Број на парче/серијски број</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Max:</span>","<span class=""o_stat_text"">Макс:</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Min:</span>","<span class=""o_stat_text"">Минимум:</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Moves</span>","<span class=""o_stat_text"">Движења</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Next Transfer</span>","<span class=""o_stat_text"">Следен трансфер</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">On Hand</span>","<span class=""o_stat_text"">На располагање</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Operations</span>","<span class=""o_stat_text"">Операции</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Out:</span>","<span class=""o_stat_text"">Надвор:</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Product Moves</span>","<span class=""o_stat_text"">Производствени движења</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Putaway Rules</span>","<span class=""o_stat_text"">Правила за складирање</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Routes</span>","<span class=""o_stat_text"">Рути</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Storage Capacities</span>","<span class=""o_stat_text"">Капацитети за складирање</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+"<span class=""o_stat_text"">Traceability</span>","<span class=""o_stat_text"">Следливост</span>","<span class=""o_stat_text"">, </span>","<span class=""o_stat_text"">, </span>"
+<span><strong>Delivery Address:</strong></span>,<span><strong>Адреса за испорака:</strong></span>,"<span>, <strong>, </strong>, </span>","<span>, <strong>, </strong>, </span>"
+<span>OBTRETU</span>,<span>ОБТЕТУ</span>,"<span>, </span>","<span>, </span>"
+<span>On Hand: </span>,<span>На залиха: </span>,"<span>, </span>","<span>, </span>"
+<span>Package Type: </span>,<span>Тип на пакет: </span>,"<span>, </span>","<span>, </span>"
+<span>Products with no package assigned</span>,<span>Производи без доделена амбалажа</span>,"<span>, </span>","<span>, </span>"
+<span>Remaining quantities not yet delivered:</span>,<span>Преостанати количини што сè уште не се испорачани:</span>,"<span>, </span>","<span>, </span>"
+<span>days</span>,<span>дена</span>,"<span>, </span>","<span>, </span>"
+<span>×</span>,<span>×</span>,"<span>, </span>","<span>, </span>"
+"<strong>
+                The done move line has been corrected.
+            </strong>",<strong> Линијата за завршен потег е коригирана. </strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Customer Address</strong>,<strong>Адреса на клиентот</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Delivered</strong>,<strong>Доставено</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Delivery address</strong>,<strong>Адреса за испорака</strong>,"<strong>, </strong>","<strong>, </strong>"
+"<strong>Due to some stock moves done between your initial update of the quantity and now, the difference of quantity is not consistent anymore.</strong>","<strong>Поради некои промени во залихите направени помеѓу вашето првично ажурирање на количината и сега, разликата во количината повеќе не е конзистентна.</strong>","<strong>, </strong>","<strong>, </strong>"
+<strong>From</strong>,<strong>Од</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Lot/Serial Number</strong>,<strong>Лотовски/сериен број</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Max qty:</strong>,<strong>Макс. кол.:</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Min qty:</strong>,<strong>Минимална количина:</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Order</strong>,<strong>Ред</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Ordered</strong>,<strong>Подредено</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Pack Date:</strong>,<strong>Датум на пакување:</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Package Type:</strong>,<strong>Тип на пакет:</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Product Barcode</strong>,<strong>Баркод на производот</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Product</strong>,<strong>Производ</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Quantity</strong>,<strong>Квантитет</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Recipient address</strong>,<strong>Адреса на примачот</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Scheduled Date</strong>,<strong>Закажан датум</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Shipping Date</strong>,<strong>Датум на испорака</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Signature</strong>,<strong>Потпис</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Status</strong>,<strong>Статус</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>The initial demand has been updated.</strong>,<strong>Почетното барање е ажурирано.</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>To</strong>,<strong>во</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Tracked product(s):</strong>,<strong>Следени производ(и):</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Vendor Address</strong>,<strong>Адреса на добавувачот</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Warehouse Address</strong>,<strong>Адреса на магацин</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Warehouse address</strong>,<strong>Адреса на магацин</strong>,"<strong>, </strong>","<strong>, </strong>"
+<strong>Where do you want to send the products?</strong>,<strong>Каде сакате да ги испратите производите?</strong>,"<strong>, </strong>","<strong>, </strong>"
+"Compute shipping costs and ship with DHL<br/>
+                                    <strong>(please go to Home&gt;Apps to install)</strong>",Изчислете ги трошоците за испорака и испратете со DHL<br/> <strong>(ве молиме одете на Почетна>Апликации за да инсталирате)</strong>,"<br/>, <strong>, </strong>","<br/>, <strong>, </strong>"
+"Compute shipping costs and ship with FedEx<br/>
+                                    <strong>(please go to Home&gt;Apps to install)</strong>",Изчислете ги трошоците за испорака и испратете со FedEx<br/> <strong> (ве молиме одете на Почетна>Апликации за да инсталирате)</strong>,"<br/>, <strong>, </strong>","<br/>, <strong>, </strong>"
+"Compute shipping costs and ship with UPS<br/>
+                                    <strong>(please go to Home&gt;Apps to install)</strong>",Изчислете ги трошоците за испорака и испратете со UPS<br/> <strong> (ве молиме одете на Почетна>Апликации за да инсталирате)</strong>,"<br/>, <strong>, </strong>","<br/>, <strong>, </strong>"
+"Compute shipping costs and ship with USPS<br/>
+                                    <strong>(please go to Home&gt;Apps to install)</strong>",Изчислете ги трошоците за испорака и испратете со USPS<br/> <strong> (ве молиме одете на Почетна>Апликации за да инсталирате)</strong>,"<br/>, <strong>, </strong>","<br/>, <strong>, </strong>"
+Keep the <strong>Counted Quantity</strong> (the Difference will be updated),Зачувајте го <strong>Насочени количини</strong> (Разликата ќе се ажурира),"<strong>, </strong>","<strong>, </strong>"
+Keep the <strong>Difference</strong> (the Counted Quantity will be updated to reflect the same difference as when you counted),Зачувајте ја разликата <strong>Difference</strong> (бројот на избројаните единици ќе се ажурира за да ја одрази истата разлика како кога броивте),"<strong>, </strong>","<strong>, </strong>"
+"Please put this document inside your return parcel.<br/>
+                                Your parcel must be sent to this address:",Ве молиме ставете го овој документ во вашата пратка за враќање.<br/> Вашата пратка мора да се испрати на оваа адреса:,<br/>,<br/>
+"Those products you added are tracked but lots/serials were not defined. Once applied those can't be changed.<br/>
+                    Apply anyway?","Производите што ги додадовте се следат, но лотови/серијски броеви не се дефинирани. Откако ќе се применат, тие не можат да се менуваат.<br/> Сепак да примените?",<br/>,<br/>
+"When products are needed in <b>%(destination)s</b>, <br> <b>%(operation)s</b> are created from <b>%(source_location)s</b> to fulfill the need. %(suffix)s","Кога се потребни производи во <b>%(destination)s</b>, <br> <b>%(operation)s</b> се создаваат од <b>%(source_location)s</b> за да се задоволи потребата. %(suffix)s","<b>, </b>, <br>, <b>, </b>, <b>, </b>","<b>, </b>, <br>, <b>, </b>, <b>, </b>"
+"When products arrive in <b>%(source_location)s</b>, <br> <b>%(operation)s</b> are created to send them to <b>%(destination)s</b>.","Кога производите пристигнуваат во <b>%(source_location)s</b>, <br> <b>%(operation)s</b> се создаваат за да ги испратат до <b>%(destination)s</b>.","<b>, </b>, <br>, <b>, </b>, <b>, </b>","<b>, </b>, <br>, <b>, </b>, <b>, </b>"
+]<br/>min:,]<br/>мин:,<br/>,<br/>

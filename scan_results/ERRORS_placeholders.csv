@@ -1,0 +1,13 @@
+msgid,msgstr,placeholders_original,placeholders_translation,missing,extra
+%(name)s Sequence cross dock,Крос-докинг на низата на %(name),%(name)s,,%(name)s,
+%(name)s Sequence in,Секуенцата на %(name) во,%(name)s,,%(name)s,
+%(name)s Sequence internal,Внатрешна секвенца на %(name),%(name)s,,%(name)s,
+%(name)s Sequence out,Излез на низата на %(name),%(name)s,,%(name)s,
+%(name)s Sequence packing,Пакување на низата на %(name),%(name)s,,%(name)s,
+%(name)s Sequence picking,Избор на секвенца на %(name),%(name)s,,%(name)s,
+%(name)s Sequence quality control,Контрола на квалитетот на секвенцата на %(name),%(name)s,,%(name)s,
+%(name)s Sequence storage,%(name)ов складиште за секвенци,%(name)s,,%(name)s,
+%(warehouse)s Sequence %(code)s,%(складиште)ов низ %(код)ови,"%(warehouse)s, %(code)s",,"%(warehouse)s, %(code)s",
+"%(warehouse)s can only provide %(free_qty)s %(uom)s, while the quantity to order is %(qty_to_order)s %(uom)s.","%(складови) можат да обезбедат само %(слободна количина) %(единица), додека количината за нарачка е %(количина за нарачка) %(единица).","%(warehouse)s, %(free_qty)s, %(uom)s, %(qty_to_order)s, %(uom)s",,"%(qty_to_order)s, %(uom)s, %(warehouse)s, %(free_qty)s",
+%(warehouse)s: Supply Product from %(supplier)s,%(складови): Доставете производ од %(добавувачи),"%(warehouse)s, %(supplier)s",,"%(supplier)s, %(warehouse)s",
+Rule %(rule)s belongs to %(rule_company)s while the route belongs to %(route_company)s.,"Правилата %(rule)s припаѓаат на %(rule_company)s, додека рутите %(route)s припаѓаат на %(route_company)s.","%(rule)s, %(rule_company)s, %(route_company)s","%(rule)s, %(rule_company)s, %(route)s, %(route_company)s",,%(route)s

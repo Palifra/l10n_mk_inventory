@@ -1,0 +1,100 @@
+msgid,msgstr,placeholders_original,placeholders_translation
+"
+
+Transfers %(transfer_list)s: You need to supply a Lot/Serial number for products %(product_list)s.","
+
+Преноси %(transfer_list)s: Треба да наведете број на лот/сериски број за производите %(product_list)s.","%(transfer_list)s, %(product_list)s","%(transfer_list)s, %(product_list)s"
+"
+(%(serial_number)s) exists in location %(location)s","
+(%(serial_number)s) се наоѓа на локацијата %(location)s","%(serial_number)s, %(location)s","%(serial_number)s, %(location)s"
+" - Product: %(product)s, Lot/Serial Number: %(lot)s"," - Производ: %(product)s, Лот/сериен број: %(lot)s","%(product)s, %(lot)s","%(product)s, %(lot)s"
+%(name)s (copy)(%(id)s),%(name)s (copy)(%(id)s),"%(name)s, %(id)s","%(name)s, %(id)s"
+%(name)s Sequence cross dock,%(name)s Секуенс крос-док,%(name)s,%(name)s
+%(name)s Sequence in,%(name)s Следница во,%(name)s,%(name)s
+%(name)s Sequence internal,%(name)s Внатрешна низа,%(name)s,%(name)s
+%(name)s Sequence out,%(name)s Излез на низа,%(name)s,%(name)s
+%(name)s Sequence packing,%(name)s Пакување на секвенци,%(name)s,%(name)s
+%(name)s Sequence picking,%(name)s Избор на секвенца,%(name)s,%(name)s
+%(name)s Sequence quality control,%(name)s Контрола на квалитетот на секвенцата,%(name)s,%(name)s
+%(name)s Sequence storage,%(name)s Складирање на секвенци,%(name)s,%(name)s
+"%(operations)s have default source or destination locations within warehouse %(warehouse)s, therefore you cannot archive it.","%(operations)s имаат стандардни локации за извор или дестинација во рамките на магацинските %(warehouse)s, затоа не можете да ги архивирате.","%(operations)s, %(warehouse)s","%(operations)s, %(warehouse)s"
+%(product)s: Insufficient Quantity To Scrap,%(product)s: Недоволна количина за отпис,%(product)s,%(product)s
+%(product_name)s --> Product UoM is %(product_uom)s (%(product_uom_category)s) - Move UoM is %(move_uom)s (%(move_uom_category)s),%(product_name)s --> Единица на производ е %(product_uom)s (%(product_uom_category)s) - Единица за пренос е %(move_uom)s (%(move_uom_category)s),"%(product_name)s, %(product_uom)s, %(product_uom_category)s, %(move_uom)s, %(move_uom_category)s","%(product_name)s, %(product_uom)s, %(product_uom_category)s, %(move_uom)s, %(move_uom_category)s"
+%(warehouse)s Sequence %(code)s,%(warehouse)s Низа %(code)s,"%(warehouse)s, %(code)s","%(warehouse)s, %(code)s"
+"%(warehouse)s can only provide %(free_qty)s %(uom)s, while the quantity to order is %(qty_to_order)s %(uom)s.","%(warehouse)s може да обезбеди само %(free_qty)s %(uom)s, додека количината за нарачка е %(qty_to_order)s %(uom)s.","%(warehouse)s, %(free_qty)s, %(uom)s, %(qty_to_order)s, %(uom)s","%(warehouse)s, %(free_qty)s, %(uom)s, %(qty_to_order)s, %(uom)s"
+%(warehouse)s: Supply Product from %(supplier)s,%(warehouse)s: Доставете производ од %(supplier)s,"%(warehouse)s, %(supplier)s","%(warehouse)s, %(supplier)s"
+%s (copy),%s (копија),%s,%s
+%s [reverted],%s [вратено],%s,%s
+%s days,%s дена,%s,%s
+%s: Can't split: quantities done can't be above demand,%s: Не може да се подели: извршените количини не можат да бидат поголеми од побарувачката,%s,%s
+"%s: Nothing to split, all demand is done. For split you need at least one line not fully fulfilled","%s: Нема што да се подели, целата побарувачка е исполнета. За поделба ви треба барем една линија што не е целосно исполнета.",%s,%s
+%s: Nothing to split. Fill the quantities you want in a new transfer in the done quantities,%s: Нема што да се подели. Пополнете ги количините што ги сакате во нов трансфер во внесените количини.,%s,%s
+"'Delivery Slip - %s - %s' % (object.partner_id.name or '', object.name)",Лист за достава - %s - %s,"%s, %s","%s, %s"
+'Location - %s' % object.name,Локација - %s' % object.name,%s,%s
+'Lot-Serial - %s' % object.name,Лот-серијски - %s' % object.name,%s,%s
+'Operation-type - %s' % object.name,Тип на операција - %s' % object.name,%s,%s
+'Packages - %s' % (object.name),'Пакети - %s' % (object.name),%s,%s
+"'Picking Operations - %s - %s' % (object.partner_id.name or '', object.name)",Операции за избор - %s - %s,"%s, %s","%s, %s"
+(copy of) %s,(копија на) %s,%s,%s
++ %d day(s),+ %d денови,%d,%d
+<br>A need is created in <b>%s</b> and a rule will be triggered to fulfill it.,Во <br> се создава потреба во <b>%s</b> и ќе се активира правило за нејзино исполнување.,%s,%s
+"<br>If the products are not available in <b>%s</b>, a rule will be triggered to bring the missing quantity in this location.","<br>Ако производите не се достапни во <b>%s</b>, ќе се активира правило за донесување на недостасувачката количина на оваа локација.",%s,%s
+"<br>The products will be moved towards <b>%(destination)s</b>, <br/> as specified from <b>%(operation)s</b> destination.","<br>Производите ќе бидат преместени кон <b>%(destination)s</b>, <br/> како што е наведено од дестинацијата <b>%(operation)s</b>.","%(destination)s, %(operation)s","%(destination)s, %(operation)s"
+Add line: %s,Додајте линија: %s,%s,%s
+"Another parent/sub replenish location %s exists, if you wish to change it, uncheck it first","Постои уште една локација за дополнување на родител/под-ниво %s, ако сакате да ја промените, прво отштиклете ја.",%s,%s
+Blocking: %s,Блокирање: %s,%s,%s
+Can't find any generic route %s.,Не можам да најдам никаква генеричка рута %s.,%s,%s
+Deadline updated due to delay on %s,Крајниот рок е ажуриран поради задоцнување на %s,%s,%s
+Delay on %s,Задоцнување на %s,%s,%s
+Delivery orders of %s,Налози за испорака на %s,%s,%s
+Exp %s,Процент %s,%s,%s
+"HTML reports cannot be auto-printed, skipping report: %s","HTML-извештаите не можат да се печатат автоматски, прескок на извештај: %s",%s,%s
+Invalid domain left operand %s,Невалиден домен лев операнд %s,%s,%s
+Invalid domain operator %s,Неважечки оператор на домен %s,%s,%s
+Invalid domain right operand '%s'. It must be of type Integer/Float,Невалиден операнд за десно поле на доменот '%s'. Тој мора да биде од типот Целоброен/Пловечки.,%s,%s
+"Invalid rule's configuration, the following rule causes an endless loop: %s","Неисправна конфигурација на правилото, следното правило предизвикува бесконечна јамка: %s",%s,%s
+It is not possible to unreserve more products of %s than you have in stock.,Не е можно да се откаже резервација на повеќе производи од %s отколку што имате на залиха.,%s,%s
+New Move: %(product)s,Нов потег: %(product)s,%(product)s,%(product)s
+No %s selected or a delivery order selected,Не е избрано %s или е избрана наредба за испорака,%s,%s
+"No rule has been found to replenish ""%(product)s"" in ""%(location)s"".
+Verify the routes configuration on the product.","Не е пронајдено правило за надополнување на ""%(product)s"" во ""%(location)s"". Проверете ја конфигурацијата на рутите на производот.","%(product)s, %(location)s","%(product)s, %(location)s"
+No source location defined on stock rule: %s!,Не е дефинирана локација на изворот во стандардното правило: %s!,%s,%s
+Order signed by %s,Налог потпишан од %s,%s,%s
+Please create a warehouse for company %s.,Ве молиме креирајте магацин за компанијата %s.,%s,%s
+Products: %(location)s,Производи: %(location)s,%(location)s,%(location)s
+Removal strategy %s not implemented.,Стратегија за одстранување %s не е имплементирана.,%s,%s
+Replenishment Information for %(product)s in %(warehouse)s,Информации за дополнување за %(product)s во %(warehouse)s,"%(product)s, %(warehouse)s","%(product)s, %(warehouse)s"
+Return of %(picking_name)s,Враќање на %(picking_name)s,%(picking_name)s,%(picking_name)s
+Rule %(rule)s belongs to %(rule_company)s while the route belongs to %(route_company)s.,"Правилото %(rule)s припаѓа на %(rule_company)s, додека рутата припаѓа на %(route_company)s.","%(rule)s, %(rule_company)s, %(route_company)s","%(rule)s, %(rule_company)s, %(route_company)s"
+Sequence %(code)s,Поредок %(code)s,%(code)s,%(code)s
+Serial number (%(serial_number)s) already exists in location(s): %(location_list)s. Please correct the serial number encoded.,Серијскиот број (%(serial_number)s) веќе постои на локациите: %(location_list)s. Ве молиме поправете го кодираниот серијски број.,"%(serial_number)s, %(location_list)s","%(serial_number)s, %(location_list)s"
+"Serial number (%(serial_number)s) is not located in %(source_location)s, but is located in location(s): %(other_locations)s.
+
+Please correct this to prevent inconsistent data.","Серијскиот број (%(serial_number)s) не се наоѓа во %(source_location)s, туку се наоѓа во локации: %(other_locations)s. Ве молиме поправете го ова за да спречите неконзистентни податоци.","%(serial_number)s, %(source_location)s, %(other_locations)s","%(serial_number)s, %(source_location)s, %(other_locations)s"
+"Serial number (%(serial_number)s) is not located in %(source_location)s, but is located in location(s): %(other_locations)s.
+
+Source location for this move will be changed to %(recommended_location)s","Серијскиот број (%(serial_number)s) не се наоѓа во %(source_location)s, туку се наоѓа во локации: %(other_locations)s. Почетната локација за оваа преселба ќе се промени на %(recommended_location)s.","%(serial_number)s, %(source_location)s, %(other_locations)s, %(recommended_location)s","%(serial_number)s, %(source_location)s, %(other_locations)s, %(recommended_location)s"
+"The %s location is required by the Inventory app and cannot be deleted, but you can archive it.","Локацијата %s е потребна за апликацијата Inventory и не може да се избрише, но можете да ја архивирате.",%s,%s
+The Lot/Serial number (%s) is linked to another product.,Бројот на лот/серијскиот број (%s) е поврзан со друг производ.,%s,%s
+The backorder %s has been created.,Зад нарачката %s е создадена.,%s,%s
+"The combination of lot/serial number and product must be unique within a company including when no company is defined.
+The following combinations contain duplicates:
+%(error_lines)s","Комбинацијата на серијски број и производ мора да биде единствена во рамките на компанијата, вклучително и кога не е дефинирана компанија. Следниве комбинации содржат дупликати: %(error_lines)s",%(error_lines)s,%(error_lines)s
+The deadline has been automatically updated due to a delay on %s.,Крајниот рок е автоматски ажуриран поради доцнење на %s.,%s,%s
+The search does not support the %(operator)s operator or %(value)s value.,Пребарувањето не ги поддржува операторите %(operator)s и операторите %(value)s.,"%(operator)s, %(value)s","%(operator)s, %(value)s"
+"The serial number has already been assigned: 
+ Product: %(product)s, Serial Number: %(serial_number)s","Серијскиот број веќе е доделен: Производ: %(product)s, Серијски број: %(serial_number)s","%(product)s, %(serial_number)s","%(product)s, %(serial_number)s"
+This lot %(lot_name)s is incompatible with this product %(product_name)s,Оваа лота %(lot_name)s е некомпатибилна со овој производ %(product_name)s,"%(lot_name)s, %(product_name)s","%(lot_name)s, %(product_name)s"
+This report cannot be used for done and not done %s at the same time,Овој извештај не може да се користи за %s завршени и недовршени истовремено.,%s,%s
+Transfers %s: Please add some items to move.,Преноси %s: Ве молиме додајте некои предмети за пренос.,%s,%s
+Unavailable Serial numbers. Please correct the serial numbers encoded: %(serial_numbers_to_locations)s,Недостапни серијски броеви. Ве молиме поправете ги кодираните серијски броеви: %(serial_numbers_to_locations)s,%(serial_numbers_to_locations)s,%(serial_numbers_to_locations)s
+"When products are needed in <b>%(destination)s</b>, <br> <b>%(operation)s</b> are created from <b>%(source_location)s</b> to fulfill the need. %(suffix)s","Кога се потребни производи во <b>%(destination)s</b>, <br> <b>%(operation)s</b> се создаваат од <b>%(source_location)s</b> за да се задоволи потребата. %(suffix)s","%(destination)s, %(operation)s, %(source_location)s, %(suffix)s","%(destination)s, %(operation)s, %(source_location)s, %(suffix)s"
+"When products arrive in <b>%(source_location)s</b>, <br> <b>%(operation)s</b> are created to send them to <b>%(destination)s</b>.","Кога производите пристигнуваат во <b>%(source_location)s</b>, <br> <b>%(operation)s</b> се создаваат за да ги испратат до <b>%(destination)s</b>.","%(source_location)s, %(operation)s, %(destination)s","%(source_location)s, %(operation)s, %(destination)s"
+You can only process 1.0 %s of products with unique serial number.,"Можете да обработите само 1,0 %s производи со уникатен сериен број.",%s,%s
+You can't disable locations %s because they still contain products.,Не можете да ги оневозможите локациите %s бидејќи тие сè уште содржат производи.,%s,%s
+You cannot archive location %(location)s because it is used by warehouse %(warehouse)s,Не можете да ја архивирате локацијата %(location)s бидејќи се користи од магацинот %(warehouse)s,"%(location)s, %(warehouse)s","%(location)s, %(warehouse)s"
+"You cannot take products from or deliver products to a location of type ""view"" (%s).","Не можете да земате производи од или да доставувате производи до локација од типот ""view"" (%s).",%s,%s
+"You need to supply a Lot/Serial Number for product:
+%(products)s",Треба да наведете број на лот/сериен број за производот: %(products)s,%(products)s,%(products)s
+You need to supply a Lot/Serial number for products %s.,Треба да наведете број на лот/сериски број за производите %s.,%s,%s
+You still have ongoing operations for operation types %(operations)s in warehouse %(warehouse)s,Сè уште имате тековни операции за типови операции %(operations)s во магацини %(warehouse)s,"%(operations)s, %(warehouse)s","%(operations)s, %(warehouse)s"

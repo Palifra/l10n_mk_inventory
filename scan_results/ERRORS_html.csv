@@ -1,0 +1,17 @@
+msgid,msgstr,html_original,html_translation,missing,extra
+"<br/>
+                    <strong>Current Inventory: </strong>",Тековен инвентар:,"<br/>, <strong>, </strong>",,"<br/>, <strong>, </strong>",
+"<br>The products will be moved towards <b>%(destination)s</b>, <br/> as specified from <b>%(operation)s</b> destination.","Производите ќе бидат преместени кон <b>%(destination)s</b>, <br/>, како што е наведено од дестинацијата <b>%(operation)s</b>.","<br>, <b>, </b>, <br/>, <b>, </b>","<b>, </b>, <br/>, <b>, </b>",<br>,
+"<span class=""o_stat_text"">Next Transfer</span>",Следен трансфер,"<span class=""o_stat_text"">, </span>",,"<span class=""o_stat_text"">, </span>",
+<span><strong>Delivery Address:</strong></span>,Адреса за испорака:,"<span>, <strong>, </strong>, </span>",,"<span>, </span>, <strong>, </strong>",
+<span>On Hand: </span>,На залиха:,"<span>, </span>",,"<span>, </span>",
+<strong>Customer Address</strong>,Адреса на клиентот,"<strong>, </strong>",,"<strong>, </strong>",
+<strong>Delivered</strong>,Доставено,"<strong>, </strong>",,"<strong>, </strong>",
+<strong>Delivery address</strong>,Адреса за испорака,"<strong>, </strong>",,"<strong>, </strong>",
+<strong>From</strong>,Од</strong>,"<strong>, </strong>",</strong>,<strong>,
+<strong>Min qty:</strong>,Минимална количина:,"<strong>, </strong>",,"<strong>, </strong>",
+<strong>Recipient address</strong>,Адреса на примачот,"<strong>, </strong>",,"<strong>, </strong>",
+<strong>The initial demand has been updated.</strong>,Почетното барање е ажурирано.,"<strong>, </strong>",,"<strong>, </strong>",
+<strong>Vendor Address</strong>,Адреса на добавувачот,"<strong>, </strong>",,"<strong>, </strong>",
+<strong>Warehouse Address</strong>,Адреса на магацин,"<strong>, </strong>",,"<strong>, </strong>",
+<strong>Warehouse address</strong>,Адреса на магацин,"<strong>, </strong>",,"<strong>, </strong>",

@@ -2843,7 +2843,7 @@ msgstr "Опис за внатрешни трансфери"
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.view_template_property_form
 msgid "Description for Receipts"
-msgstr "Опис за сметки"
+msgstr "Опис за Приемници"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_move__description_picking
@@ -3489,7 +3489,7 @@ msgstr "Предвидена количина"
 #. module: stock
 #: model:ir.model.fields.selection,name:stock.selection__report_stock_quantity__state__in
 msgid "Forecasted Receipts"
-msgstr "Проценети приходи"
+msgstr "Прогнозирани приеми"
 
 #. module: stock
 #. odoo-javascript
@@ -7286,7 +7286,7 @@ msgstr "Рута на прием"
 #: model:ir.ui.menu,name:stock.in_picking
 #: model_terms:ir.ui.view,arch_db:stock.view_picking_internal_search
 msgid "Receipts"
-msgstr "Приеми"
+msgstr "Приемници"
 
 #. module: stock
 #: model_terms:ir.ui.view,arch_db:stock.view_picking_form
@@ -11489,5 +11489,5 @@ msgstr "Испратници"
 
 #. module: stock
 #: model:stock.picking.type,name:stock.picking_type_in
-msgid "Приеми"
-msgstr "Приеми"
+msgid "Приемници"
+msgstr "Приемници"

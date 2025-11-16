@@ -4888,7 +4888,7 @@ msgstr "Локација"
 #. module: stock
 #: model:ir.actions.report,name:stock.action_report_location_barcode
 msgid "Location Barcode"
-msgstr "Локација Штрих-код"
+msgstr "Баркод на локација"
 
 #. module: stock
 #: model:ir.model.fields,field_description:stock.field_stock_location__name

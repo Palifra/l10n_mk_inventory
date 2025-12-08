@@ -1519,7 +1519,7 @@ msgstr "Маса на големо"
 #. module: stock
 #: model:ir.model.fields.selection,name:stock.selection__product_template__tracking__lot
 msgid "By Lots"
-msgstr "Од многу"
+msgstr "По лотови"
 
 #. module: stock
 #: model:ir.model.fields.selection,name:stock.selection__product_template__tracking__none
@@ -9711,7 +9711,7 @@ msgstr "Извештај за следливост"
 #: model:ir.model.fields,field_description:stock.field_product_template__is_storable
 #: model:ir.model.fields,field_description:stock.field_stock_move__is_storable
 msgid "Track Inventory"
-msgstr "Следи инвентар"
+msgstr "Следи залиха"
 
 #. module: stock
 #: model:ir.model.fields,help:stock.field_res_config_settings__module_product_expiry
